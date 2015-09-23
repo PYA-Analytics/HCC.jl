@@ -11,3 +11,6 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# Mac DS files
+.DS_Store
