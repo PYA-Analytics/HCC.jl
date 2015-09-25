@@ -14,3 +14,7 @@ vignettes/*.pdf
 
 # Mac DS files
 .DS_Store
+
+# Julia files
+*.jl.cov
+*.jl.mem
