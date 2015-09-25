@@ -1,2 +1,3 @@
-# HCC.jl
-An implementation of Hierarchical Condition Categories (HCC) algorithm in Julia.
+# HCC
+
+[![Build Status](https://travis-ci.org/paul-james-pyaa/HCC.jl.svg?branch=master)](https://travis-ci.org/paul-james-pyaa/HCC.jl)
